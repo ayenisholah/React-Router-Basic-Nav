@@ -1,5 +1,4 @@
 import React from 'react';
-
 import avengers from '../data';
 
 function AvengerPage(props) {
